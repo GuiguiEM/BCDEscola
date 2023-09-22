@@ -1,2 +1,1 @@
 # EscolaBCD
-# BCDEscola
